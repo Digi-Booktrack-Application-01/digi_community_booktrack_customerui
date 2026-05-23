@@ -20,4 +20,4 @@ spec:
           image: ghcr.io/Digi-Booktrack-Application-01/customer-frontend:latest
           imagePullPolicy: Always
           ports:
-            - containerPort: 80
+            - containerPort: 5174
